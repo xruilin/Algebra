@@ -69,7 +69,7 @@
 * **构造方法**：在 $\mathbb{N}_0 \times \mathbb{N}_0$ 上定义等价关系 $(a,b) \sim (c,d) \iff a+d = b+c$。每一类 $[(a,b)]$ 代表一个整数 $a-b$。
 * **代数结构**：$\mathbb{Z}$ 构成了一个**整环 (Integral Domain)**。
     * 它有加法单位元 $0$ 和逆元 $-a$。
-    * 它满足**消去律** (Cancellation Law)： $ab=ac, a \neq 0 \implies b=c$ （即无零因子）。
+    * 它满足**消去律**：$ab=ac, a \neq 0 \implies b=c$（即无零因子）。
     * **核心性质**：虽然 $\mathbb{Z}$ 没有除法，但它有**带余除法**和**算术基本定理**（唯一分解定理），这是初等数论的基石。
 
 ### 3.2 有理数域 $\mathbb{Q}$：修补除法
