@@ -46,5 +46,5 @@
 * [ ] **内容填充**：随复习进度逐步更新。
 
 ---
-
+![这是我的项目动画](Video%20Project%201.gif)
 *Designed for intuitive learning. Built with AI assistance.*
